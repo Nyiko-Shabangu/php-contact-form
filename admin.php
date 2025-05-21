@@ -1,7 +1,7 @@
 <?php
 require 'config.php';
 
-// Simple authentication (replace with proper authentication in production)
+// Simple authentication 
 session_start();
 if (!isset($_SESSION['authenticated'])) {
     if ($_POST['password'] ?? '' === 'admin123') { // Temporary password
