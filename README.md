@@ -2,8 +2,9 @@
 
 A secure contact form system with submission tracking and an admin interface.
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Contact+Form+Screenshot)  
-*Add actual screenshots later.*
+
+![image](https://github.com/user-attachments/assets/614de05a-59c6-4053-b7bc-6e4f7995a861)
+
 
 ## Features
 
